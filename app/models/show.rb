@@ -21,4 +21,3 @@ class Show < ActiveRecord::Base
     self.order(:name)
   end
 end
-© 2020 GitHub, In
